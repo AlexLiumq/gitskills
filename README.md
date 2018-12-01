@@ -1,2 +1,2 @@
 # gitskills
-Create branch dev quick lalala
+Create branch dev new branch AND simple
