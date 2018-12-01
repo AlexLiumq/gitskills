@@ -1,2 +1,2 @@
 # gitskills
-Create branch dev
+Create branch dev new branch AND simple
